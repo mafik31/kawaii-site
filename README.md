@@ -1,7 +1,7 @@
 <div align="center">
-# 🌸 Kawaii Personal Site 🎀
+<h1> 🌸 Kawaii Personal Site 🎀</h1>
 
-### ˚₊· ͟͟͞͞➳❥ Welcome to my adorable corner of the web! ⋆｡°✩
+## ˚₊· ͟͟͞͞➳❥ Welcome to my adorable corner of the web! ⋆｡°✩
 
 <div align="center">
     <img src="https://i.pinimg.com/736x/71/c6/8f/71c68f735485f8b3bc8bea1ef5566660.jpg" alt="Cute banner" width="500"/>
@@ -11,7 +11,7 @@
 
 This is my super kawaii personal website where I share my interests and creative works! Built with lots of love and pastel colors 💖
 
-### ✧･ﾟ Features ･ﾟ✧
+## ✧･ﾟ Features ･ﾟ✧
 * 🎀 Cute and pink aesthetic design
 * 🌟 Personal portfolio showcase
 * 🐰 Adorable animations
@@ -28,12 +28,14 @@ This is my super kawaii personal website where I share my interests and creative
 <div align="center">
     <img src="https://i.pinimg.com/736x/40/40/23/4040233a01ae405f5e05f636ec32f4bb.jpg" alt="Cute banner" width="500"/>
 </div>
-## ⋆｡°✩ Getting Started ✩°｡⋆
+
+# ⋆｡°✩ Getting Started ✩°｡⋆
 
 ```
 git clone https://github.com/parsherr/kawai-site.git
 ```
-## ♡ Contributing ♡
+
+# ♡ Contributing ♡
 
 Feel free to contribute to make this site even more kawaii! 🌸
 
@@ -46,7 +48,8 @@ Feel free to contribute to make this site even more kawaii! 🌸
 <div align="center">
     <img src="https://i.pinimg.com/736x/8c/02/71/8c02711140b21bdb992eac6d214a2f60.jpg" alt="Cute banner" width="500"/>
 </div>
-## ⋆˚✿˖° Contact Me °˖✿˚⋆
+
+# ⋆˚✿˖° Contact Me °˖✿˚⋆
 
 * 🌸 [Portfolio](https://parsher.xyz)
 * 🎀 [Discord](https://discord.gg/bdfd)
